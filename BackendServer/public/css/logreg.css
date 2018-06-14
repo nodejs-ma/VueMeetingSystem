@@ -1,0 +1,16 @@
+body {
+	font-size: 14px;
+	font-weight: bold;
+	color: #3C3C3C;
+	background: url(/imgs/hui.jpg) no-repeat center center fixed; 
+	background-size: cover;
+	margin: 0;
+}
+
+#formBlock {
+	width: 90%;
+	background: black;
+	opacity: 0.3;
+	margin: 30px auto;
+	text-align: center;
+}
